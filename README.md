@@ -13,13 +13,10 @@ Which variables are significant in predicting the price of a house, and
 
 How well those variables describe the price of a house.
 
- 
-
-Also, determine the optimal value of lambda for ridge and lasso regression.
 
  
 
-Business Goal 
+## Business Goal 
 
  
 
